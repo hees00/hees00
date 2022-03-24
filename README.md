@@ -1,5 +1,9 @@
 ### 쑤에요!! 👋
 
+![본인ID's github stats](https://github-readme-stats.vercel.app/api?username="hees00"&show_icons=true)
+[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username="hees00"ID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hees00)
+
+
 <!--
 **hees00/hees00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
